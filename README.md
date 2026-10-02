@@ -1,6 +1,6 @@
 # @miqu3iasg
 
-Backend Software Engineer working with Java, Spring Boot and AWS. Read about me on [LinkedIn](https://linkedin.com/in/miqu%C3%A9iasal) or write to [contatomiqueiasalvesdev@gmail.com](mailto:contatomiqueiasalvesdev@gmail.com). Available for remote work.
+Backend Software Engineer working with Java, Spring Boot and AWS. Read about me on [LinkedIn](https://www.linkedin.com/in/miqueiasal/) or write to [contatomiqueiasalvesdev@gmail.com](mailto:contatomiqueiasalvesdev@gmail.com). Available for remote work.
 
 ---
 
@@ -16,6 +16,7 @@ Backend Software Engineer working with Java, Spring Boot and AWS. Read about me 
 ## Latest LinkedIn posts
 
 <!-- linkedin start -->
+
 [Título do post 1 (substituir)](https://lnkd.in/p/dqf4XV9x) - 2026-10-04
 
 [Título do post 2 (substituir)](https://lnkd.in/p/dmjSqKX6) - 2026-10-03
@@ -25,7 +26,7 @@ Backend Software Engineer working with Java, Spring Boot and AWS. Read about me 
 [Título do post 4 (substituir)](https://lnkd.in/p/dYCz9e4U) - 2026-10-01
 <!-- linkedin end -->
 
-Read more on [LinkedIn](https://linkedin.com/in/miqu%C3%A9iasal/recent-activity/all/)
+Read more on [LinkedIn](https://www.linkedin.com/in/miqueiasal//recent-activity/all/)
 
 </td>
 </tr>
@@ -34,7 +35,7 @@ Read more on [LinkedIn](https://linkedin.com/in/miqu%C3%A9iasal/recent-activity/
 <br>
 
 <div align="center">
-  <a href="https://linkedin.com/in/miqu%C3%A9iasal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/miqueiasal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:contatomiqueiasalvesdev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://medium.com/@SEU_USUARIO_MEDIUM"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="https://medium.com/@miqueiasalves.developer"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
 </div>

@@ -1,6 +1,6 @@
 # @miqu3iasg
 
-Backend Software Engineer working with Java, Spring Boot and AWS. Read about me on [LinkedIn](https://www.linkedin.com/in/miqueiasal/) or write to [contatomiqueiasalvesdev@gmail.com](mailto:contatomiqueiasalvesdev@gmail.com). Available for remote work.
+Backend Software Engineer working with Java, Spring Boot and AWS. Read about me on [LinkedIn](https://www.linkedin.com/in/miqueiasal/) or write to [contatomiqueiasalvesdev@gmail.com](mailto:contatomiqueiasalvesdev@gmail.com). Available for remote work. 👋
 
 ---
 

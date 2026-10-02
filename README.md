@@ -7,9 +7,9 @@ Backend Software Engineer working with Java, Spring Boot and AWS. Read about me 
 <table width="100%">
   <tr>
     <td valign="top" width="50%">
-      <img src="./metrics.classic.svg" alt="GitHub metrics" width="100%">
+      <img src="./metrics.classic.svg" alt="GitHub metrics" width="1000">
       <br>
-      <img src="./metrics.plugin.languages.svg" alt="Most used languages" width="100%">
+      <img src="./metrics.plugin.languages.svg" alt="Most used languages" width="1000">
     </td>
     <td valign="top" width="50%">
 
@@ -27,13 +27,14 @@ Backend Software Engineer working with Java, Spring Boot and AWS. Read about me 
 
 Read more on [LinkedIn](https://linkedin.com/in/miqu%C3%A9iasal/recent-activity/all/)
 
-    </td>
-
-  </tr>
+</td>
+</tr>
 </table>
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miqu%C3%A9iasal)
-[![Email](https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatomiqueiasalvesdev@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-161B22?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@SEU_USUARIO_MEDIUM)
+<div align="center">
+  <a href="https://linkedin.com/in/miqu%C3%A9iasal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:contatomiqueiasalvesdev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://medium.com/@SEU_USUARIO_MEDIUM"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+</div>

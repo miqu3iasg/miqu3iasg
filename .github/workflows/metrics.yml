@@ -18,6 +18,7 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
+      # Métricas gerais (template classic, sem plugins)
       - name: Metrics (classic)
         uses: lowlighter/metrics@latest
         with:
@@ -26,6 +27,26 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Bahia
+
+      # Plugin introduction
+      - name: Metrics (introduction)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.introduction.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          template: classic
+          base: ""
+          config_timezone: America/Bahia
           plugin_introduction: yes
+
+      # Plugin stars
+      - name: Metrics (stars)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.stars.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          template: classic
+          base: ""
+          config_timezone: America/Bahia
           plugin_stars: yes
           plugin_stars_limit: 4

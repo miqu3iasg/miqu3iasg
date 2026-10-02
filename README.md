@@ -16,8 +16,13 @@ Backend Software Engineer working with Java, Spring Boot and AWS. Read about me 
 ## Latest LinkedIn posts
 
 <!-- linkedin start -->
+[Título do post 1 (substituir)](https://lnkd.in/p/dqf4XV9x) - 2026-10-04
 
-No posts listed yet.
+[Título do post 2 (substituir)](https://lnkd.in/p/dmjSqKX6) - 2026-10-03
+
+[Título do post 3 (substituir)](https://lnkd.in/p/dS_SAjHg) - 2026-10-02
+
+[Título do post 4 (substituir)](https://lnkd.in/p/dYCz9e4U) - 2026-10-01
 <!-- linkedin end -->
 
 Read more on [LinkedIn](https://linkedin.com/in/miqu%C3%A9iasal/recent-activity/all/)

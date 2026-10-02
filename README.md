@@ -16,14 +16,13 @@ Backend Software Engineer working with Java, Spring Boot and AWS. Read about me 
 ## Latest LinkedIn posts
 
 <!-- linkedin start -->
+[Coming Back With Something to Share](https://lnkd.in/p/dYCz9e4U) - 2026-09-30
 
-[Título do post 1 (substituir)](https://lnkd.in/p/dqf4XV9x) - 2026-10-04
+[Retry Is Not a Solution for Every Conflict](https://lnkd.in/p/dmjSqKX6) - 2026-04-19
 
-[Título do post 2 (substituir)](https://lnkd.in/p/dmjSqKX6) - 2026-10-03
+[What It Takes to Build a Banking System Beyond the Tutorials](https://lnkd.in/p/dqf4XV9x) - 2026-04-04
 
-[Título do post 3 (substituir)](https://lnkd.in/p/dS_SAjHg) - 2026-10-02
-
-[Título do post 4 (substituir)](https://lnkd.in/p/dYCz9e4U) - 2026-10-01
+[Handling Optimistic Locking with Exponential Backoff and Jitter](https://lnkd.in/p/dS_SAjHg) - 2026-03-20
 <!-- linkedin end -->
 
 Read more on [LinkedIn](https://www.linkedin.com/in/miqueiasal//recent-activity/all/)
